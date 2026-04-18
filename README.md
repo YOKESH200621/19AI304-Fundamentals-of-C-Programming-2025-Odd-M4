@@ -199,7 +199,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 To build a C program to convert a string as described above, using a user-defined parameterized function without return convertFirstCLastC(char str[]).
 # Algorithm:
 ### Step 1:
-  Start
+  Start 
 ### Step 2: 
   Include the standard input-output library: #include<stdio.h>.  
 ### Step 3: 
